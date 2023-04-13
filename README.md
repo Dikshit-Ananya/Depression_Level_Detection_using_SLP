@@ -4,12 +4,12 @@ This repository contains Colab files for the task of detecting depression levels
 ## Overview
 The notebooks in this repository are organized into several subdirectories, each corresponding to a different model or approach for detecting depression levels. The main subdirectories are:
 
-BiLSTM_WordLevel.ipynb: Contains a notebook implementing a BiLSTM model for depression level detection using both speech and text data.
-CNN_Audio.ipynb: Contains a notebook implementing a CNN model for depression level detection using speech data.
-CNN_Text.ipynb: Contains a notebook implementing a CNN model for depression level detection using text data.
-SVM&RF_Audio.ipynb: Contains a notebook implementing SVM and RF model for depression level detection using speech data.
-SVM&RF_Text.ipynb: Contains a notebook implementing a SVM and RF model for depression level detection using text data.
-Each notebook includes a detailed description of the methodology, data preprocessing steps, and model training and evaluation.
+-BiLSTM_WordLevel.ipynb: Contains a notebook implementing a BiLSTM model for depression level detection using both speech and text data.
+-CNN_Audio.ipynb: Contains a notebook implementing a CNN model for depression level detection using speech data.
+-CNN_Text.ipynb: Contains a notebook implementing a CNN model for depression level detection using text data.
+-SVM&RF_Audio.ipynb: Contains a notebook implementing SVM and RF model for depression level detection using speech data.
+-SVM&RF_Text.ipynb: Contains a notebook implementing a SVM and RF model for depression level detection using text data.
+-Each notebook includes a detailed description of the methodology, data preprocessing steps, and model training and evaluation.
 
 ## Requirements
 The notebooks were written in Python 3 and require several libraries to be installed, including numpy, pandas, scikit-learn, and tensorflow.
